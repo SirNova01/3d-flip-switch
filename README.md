@@ -3,7 +3,9 @@ A 3d flip-switch component
 
 
 # demo 
+![demo.gif](https://github.com/SirNova01/3d-flip-switch/blob/main/demo.gif)
 
+![sizes.gif](https://github.com/SirNova01/3d-flip-switch/blob/main/sizes.gif)
 
 
 # simple code
